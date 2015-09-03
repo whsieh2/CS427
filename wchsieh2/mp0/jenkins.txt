@@ -1,0 +1,3 @@
+2. http://fa15-cs427-235.cs.illinois.edu:8080/newJob
+3. Java -jar Jenkins.war --httpPort=9000
+4. wchsieh2@fa15-cs427-235/jenkins/plugins

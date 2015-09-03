@@ -1,0 +1,11 @@
+[INFO] Reactor Summary:
+[INFO] 
+[INFO] Jenkins main module ............................... SUCCESS [2.516s]
+[INFO] Jenkins cli ....................................... SUCCESS [10.285s]
+[INFO] Jenkins core ...................................... FAILURE [2:05.264s]
+[INFO] Jenkins war ....................................... SKIPPED
+[INFO] Test harness for Jenkins and plugins .............. SKIPPED
+[INFO] Jenkins plugin POM ................................ SKIPPED
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+
