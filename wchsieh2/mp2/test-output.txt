@@ -1,0 +1,11 @@
+[INFO] Reactor Summary:
+[INFO] 
+[INFO] OpenMRS ........................................... SUCCESS [1.356s]
+[INFO] openmrs-tools ..................................... SUCCESS [1.549s]
+[INFO] openmrs-test ...................................... SUCCESS [0.193s]
+[INFO] openmrs-api ....................................... SUCCESS [33.754s]
+[INFO] openmrs-web ....................................... SUCCESS [15.576s]
+[INFO] openmrs-webapp .................................... SUCCESS [7.359s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+
