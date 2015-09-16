@@ -1,5 +1,5 @@
 1. test-output.txt in SVN
-2. <number of test classes in openmrs-core>
+2. 6
 3. /tmp/openmrs.jpg on VM
-4. <number of tests in the ShortPatientFormController's test class>
-5. <number of MP0 Eclipse question containing the correct navigation shortcut>
+4. 4
+5. 4
