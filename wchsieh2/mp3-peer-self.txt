@@ -3,25 +3,26 @@ Legend: 1 (rarely/never), 2 (occasionally/sometimes), 3 (all/most of the time)
 For each item, put one number (1, 2, or 3 as per the legend above)
 
 Write your PARTNER's NetID (and name):
-
+oelabd, Omar Mohamed Elabd
 Evaluate your PARTNER. This will be done CONFIDENTIALLY.
 
-( ) did fair share of work
-( ) contributed to ideas/planning
-( ) was available for communication
-( ) was positive, helpful
+(3) did fair share of work
+(3) contributed to ideas/planning
+(3) was available for communication
+(3) was positive, helpful
 
 -------------------------------
 
 Write your OWN NetID (and name):
-
+wchsieh2, William Hsieh
 Evaluate your OWN CONTRIBUTION. This will be done CONFIDENTIALLY.
 
-( ) did fair share of work
-( ) contributed to ideas/planning
-( ) was available for communication
-( ) was positive, helpful
+(3) did fair share of work
+(3) contributed to ideas/planning
+(2) was available for communication
+(3) was positive, helpful
 
 -------------------------------
 
 Comments:
+We worked off of his VM/computer. We'd both take turns being the driver and helper. He'd drive one implementation, then I would drive for the test function. Then we would switch off. Very helpful for the coding part because something he would know and something I would know how to do. Made it very easy to collaborate. I did apologize to him because reaching me at first was difficult, but we were able to move past it and successfully completed the MP over the weekend.
