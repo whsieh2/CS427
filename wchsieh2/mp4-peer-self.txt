@@ -25,3 +25,5 @@ Evaluate your OWN CONTRIBUTION. This will be done CONFIDENTIALLY.
 -------------------------------
 
 Comments:
+I partnered with the professor. We met and I discussed which scenario I would like. We bounced ideas for what stories we would like to include. We also discussed what we thought were proper piorities and story points. 
+We also bounced ideas about how to handle breaking complex user stories.
