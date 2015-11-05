@@ -8,14 +8,14 @@ contributions to the final team project.
 
 Amount netids
 ----------------
-(   )  hjiang13
-(   )  jingeli2
-(   )  mramesh2
-(   )  pitsko2
-(   )  rai3
-(   )  saraf3
-(   )  tunnell2
-(   )  wchsieh2
+(10.5)  hjiang13
+(10.5)  jingeli2
+( 13 )  mramesh2
+( 13 )  pitsko2
+( 13 )  rai3
+( 13 )  saraf3
+  14 )  tunnell2
+( 13  )  wchsieh2
 ----------------
 1008 Total
 ----------------
@@ -33,17 +33,18 @@ Q2. For each team member, including yourself, answer the following questions:
      - Keeps commitments and completes assignments on time.
      - Helps teammates who are having difficulty when it is easy or important.
 
-( ) - hjiang13
-( ) - jingeli2
-( ) - mramesh2
-( ) - pitsko2
-( ) - rai3
-( ) - saraf3
-( ) - tunnell2
-( ) - wchsieh2
+(3) - hjiang13
+(3) - jingeli2
+(4) - mramesh2
+(4) - pitsko2
+(4) - rai3
+(4) - saraf3
+(5) - tunnell2
+(4) - wchsieh2
 
   ** WHY do you think so? Illustrate with examples.
-
+Only two of the members are performing subpar. The rest are contributing and easy to work with (they reply fast and are flexible with their schedules to work).
+One of the members has contributed more and plays a major role in organizing the group.
 
 ==============================================================================
 * Does the member have good interactions with the teammates?
@@ -56,17 +57,18 @@ Q2. For each team member, including yourself, answer the following questions:
      - Participates fully in team activities.
      - Respects and responds to feedback from teammates.
 
-( ) - hjiang13
-( ) - jingeli2
-( ) - mramesh2
-( ) - pitsko2
-( ) - rai3
-( ) - saraf3
-( ) - tunnell2
-( ) - wchsieh2
+(4) - hjiang13
+(4) - jingeli2
+(5) - mramesh2
+(5) - pitsko2
+(5) - rai3
+(5) - saraf3
+(5) - tunnell2
+(5) - wchsieh2
 
   ** WHY do you think so? Illustrate with examples.
-
+Everyone is responsive for the major meet ups. There have been some problems with a few pairs, but nothing too serious. 
+We all do a good job of communicating and helping each other. We all talk to make sure we're on the same page.
 
 ==============================================================================
 * Is the member keeping the team on track?
@@ -78,17 +80,18 @@ Q2. For each team member, including yourself, answer the following questions:
      - Knows what everyone on the team should be doing and notices problems.
      - Alerts teammates or suggests solutions when the team's success is threatened.
 
-( ) - hjiang13
-( ) - jingeli2
-( ) - mramesh2
-( ) - pitsko2
-( ) - rai3
-( ) - saraf3
-( ) - tunnell2
-( ) - wchsieh2
+(3) - hjiang13
+(3) - jingeli2
+(4) - mramesh2
+(4) - pitsko2
+(4) - rai3
+(4) - saraf3
+(5) - tunnell2
+(4) - wchsieh2
 
   ** WHY do you think so? Illustrate with examples.
-
+Some members are a little quiet and will occassionally contribute. We all are contributing to figuring out the best dynamic to 
+work most efficiently.
 
 ==============================================================================
 * Is the member expecting quality work from the team?
@@ -100,17 +103,18 @@ Q2. For each team member, including yourself, answer the following questions:
      - Wants the team to perform well enough to earn all available rewards.
      - Believes that the team can fully meet its responsibilities.
 
-( ) - hjiang13
-( ) - jingeli2
-( ) - mramesh2
-( ) - pitsko2
-( ) - rai3
-( ) - saraf3
-( ) - tunnell2
-( ) - wchsieh2
+(5) - hjiang13
+(5) - jingeli2
+(5) - mramesh2
+(5) - pitsko2
+(5) - rai3
+(5) - saraf3
+(5) - tunnell2
+(5) - wchsieh2
 
   ** WHY do you think so? Illustrate with examples.
-
+We all believed we could finish our portions. It was unfortunate that this was not the case. We are constantly reminding each other of specific criteria
+and strive to do the best. There have been some speed bumps. We are working and talking to smooth out the path.
 
 ==============================================================================
 * Does the member have related knowledge, skills, and abilities?
@@ -122,17 +126,17 @@ Q2. For each team member, including yourself, answer the following questions:
      - Acquires knowledge or skills as needed to meet requirements.
      - Able to perform some of the tasks normally done by other team members.
 
-( ) - hjiang13
-( ) - jingeli2
-( ) - mramesh2
-( ) - pitsko2
-( ) - rai3
-( ) - saraf3
-( ) - tunnell2
-( ) - wchsieh2
+(2) - hjiang13
+(2) - jingeli2
+(4) - mramesh2
+(3) - pitsko2
+(3) - rai3
+(4) - saraf3
+(4) - tunnell2
+(3) - wchsieh2
 
   ** WHY do you think so? Illustrate with examples.
-
+Only one pair was able to complete their tasks. The other groups all had incomplete products. It was due to not completely understanding Jelly.
 
 Q3. Team and CATME
 ==============================================================================
@@ -140,21 +144,27 @@ Q3. Team and CATME
 
        not satisfied  <<< (1) << (2) << (3) >> (4) >> (5) >>>  satisfied
   ----------------------------------------------------------------------------
-( ) - I rate my OWN satisfaction with this score.
-
+(2) - I rate my OWN satisfaction with this score.
+I find that we are a little dysfunctional at the momemnt. A few do not contribute much and are sometimes unresponsive to text or emails. 
+A majority are competent and able to work well. But, for the iteration we all worked as separate parts and did not do a good job of integrating our parts
+into one product. We all know, and we are meeting and discussing to fix this issue. We will create a stricter schedule.
 ==============================================================================
 * What do you see as the strengths of using CATME to form teams? Please explain WHY.
-
-
+I believe it makes a random enviroment, much like the real work force. There will be many different types of people put on a team and forced to
+coordinate. Each member of the team should be conscious of their role and strive for the same goal. I think CATME tries to simulate this kind of 
+enviroment. 
 ==============================================================================
 * What do you see as the weaknesses of using CATME to form teams? Please explain WHY.
-
+I think the schedule system was flawed. When I checked when everyone was free, many of the time slots were incorrect from my actual schedule.
 
 ==============================================================================
 * Do you recommend using CATME in future courses?
 
   strongly NOT recommend  <<< (1) << (2) << (3) >> (4) >> (5) >>>  strongly recommend
   ----------------------------------------------------------------------------------
-( ) - I rate my OWN recommendation with this score.
+(4) - I rate my OWN recommendation with this score.
 
   ** WHY? If you prefer another method (e.g., self-formed teams or random), describe.
+  
+ I enjoy the consistency of working with people you are familiar with. However, I also understand the prospect of working with random people because it teaches 
+ how to work in a team and figure out specific dynamics.
