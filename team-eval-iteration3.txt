@@ -7,15 +7,16 @@ contributions to the final team project.
 ===========================================================================
 
 Amount netids
+*On previous eval please note that the submitted values were 
 ----------------
-(   )  hjiang13
-(   )  jingeli2
-(   )  mramesh2
-(   )  pitsko2
-(   )  rai3
-(   )  saraf3
-(   )  tunnell2
-(   )  wchsieh2
+( $50 )  hjiang13
+( $50 )  jingeli2
+( $180 )  mramesh2
+( $142)  pitsko2
+( $132)  rai3
+( $142)  saraf3
+( $180 )  tunnell2
+( $132)  wchsieh2
 ----------------
 1008 Total
 ----------------
@@ -33,17 +34,18 @@ Q2. For each team member, including yourself, answer the following questions:
      - Keeps commitments and completes assignments on time.
      - Helps teammates who are having difficulty when it is easy or important.
 
-( ) - hjiang13
-( ) - jingeli2
-( ) - mramesh2
-( ) - pitsko2
-( ) - rai3
-( ) - saraf3
-( ) - tunnell2
-( ) - wchsieh2
+(1) - hjiang13
+(1) - jingeli2
+(4) - mramesh2
+(3) - pitsko2
+(3) - rai3
+(3) - saraf3
+(5) - tunnell2
+(3) - wchsieh2
 
   ** WHY do you think so? Illustrate with examples.
-
+Team does a good job of doing their portions of the code. Only two seem quiet most of the time and not adding much to the work done. 
+We had some issues with commits that did not compile. After feedback, teammates followed correct commit procedures.
 
 ==============================================================================
 * Does the member have good interactions with the teammates?
@@ -56,17 +58,17 @@ Q2. For each team member, including yourself, answer the following questions:
      - Participates fully in team activities.
      - Respects and responds to feedback from teammates.
 
-( ) - hjiang13
-( ) - jingeli2
-( ) - mramesh2
-( ) - pitsko2
-( ) - rai3
-( ) - saraf3
-( ) - tunnell2
-( ) - wchsieh2
+(3) - hjiang13
+(3) - jingeli2
+(5) - mramesh2
+(5) - pitsko2
+(5) - rai3
+(5) - saraf3
+(5) - tunnell2
+(5) - wchsieh2
 
   ** WHY do you think so? Illustrate with examples.
-
+We are all very good at communicating and helping each other. Only two members tean to be quiet most of the time.
 
 ==============================================================================
 * Is the member keeping the team on track?
@@ -78,17 +80,17 @@ Q2. For each team member, including yourself, answer the following questions:
      - Knows what everyone on the team should be doing and notices problems.
      - Alerts teammates or suggests solutions when the team's success is threatened.
 
-( ) - hjiang13
-( ) - jingeli2
-( ) - mramesh2
-( ) - pitsko2
-( ) - rai3
-( ) - saraf3
-( ) - tunnell2
-( ) - wchsieh2
+(3) - hjiang13
+(3) - jingeli2
+(5) - mramesh2
+(5) - pitsko2
+(5) - rai3
+(5) - saraf3
+(5) - tunnell2
+(5) - wchsieh2
 
   ** WHY do you think so? Illustrate with examples.
-
+When we all meet we are all pretty focused and driven. Two of the members are quiet and do not add too much.
 
 ==============================================================================
 * Is the member expecting quality work from the team?
@@ -100,17 +102,17 @@ Q2. For each team member, including yourself, answer the following questions:
      - Wants the team to perform well enough to earn all available rewards.
      - Believes that the team can fully meet its responsibilities.
 
-( ) - hjiang13
-( ) - jingeli2
-( ) - mramesh2
-( ) - pitsko2
-( ) - rai3
-( ) - saraf3
-( ) - tunnell2
-( ) - wchsieh2
+(4) - hjiang13
+(4) - jingeli2
+(5) - mramesh2
+(5) - pitsko2
+(5) - rai3
+(5) - saraf3
+(5) - tunnell2
+(5) - wchsieh2
 
   ** WHY do you think so? Illustrate with examples.
-
+Everyone has the correct and right attitude. We all want to finish the work and do well and succeed. 
 
 ==============================================================================
 * Does the member have related knowledge, skills, and abilities?
@@ -122,17 +124,18 @@ Q2. For each team member, including yourself, answer the following questions:
      - Acquires knowledge or skills as needed to meet requirements.
      - Able to perform some of the tasks normally done by other team members.
 
-( ) - hjiang13
-( ) - jingeli2
-( ) - mramesh2
-( ) - pitsko2
-( ) - rai3
-( ) - saraf3
-( ) - tunnell2
-( ) - wchsieh2
+(2) - hjiang13
+(2) - jingeli2
+(5) - mramesh2
+(5) - pitsko2
+(5) - rai3
+(5) - saraf3
+(5) - tunnell2
+(5) - wchsieh2
 
   ** WHY do you think so? Illustrate with examples.
-
+Most are very good coders and team members. We are all able to fill in the spots of knowledge when needed. Or help learn together to fix problems as a team. Most members were able to 
+understand other storyboards because they contributed.
 
 Q3. Team and CATME
 ==============================================================================
@@ -140,21 +143,25 @@ Q3. Team and CATME
 
        not satisfied  <<< (1) << (2) << (3) >> (4) >> (5) >>>  satisfied
   ----------------------------------------------------------------------------
-( ) - I rate my OWN satisfaction with this score.
+(4) - I rate my OWN satisfaction with this score.
 
 ==============================================================================
 * What do you see as the strengths of using CATME to form teams? Please explain WHY.
 
+The objectivism of schedules lining up and percieved characteristics of each member. There is randomness because no one has a clue who they will be matched with.
 
 ==============================================================================
 * What do you see as the weaknesses of using CATME to form teams? Please explain WHY.
-
+Because you can't select people you already know, who may be competent workers, you can end up with incompetent team members.
 
 ==============================================================================
 * Do you recommend using CATME in future courses?
 
   strongly NOT recommend  <<< (1) << (2) << (3) >> (4) >> (5) >>>  strongly recommend
   ----------------------------------------------------------------------------------
-( ) - I rate my OWN recommendation with this score.
+(4) - I rate my OWN recommendation with this score.
 
   ** WHY? If you prefer another method (e.g., self-formed teams or random), describe.
+   I enjoy the consistency of working with people you are familiar with. However, I also understand the prospect of working with random people because it teaches 
+ how to work in a team and figure out specific dynamics.
+ I enjoy picking my own team members.
