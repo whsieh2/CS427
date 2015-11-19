@@ -8,14 +8,14 @@ contributions to the final team project.
 
 Amount netids
 ----------------
-(10.5)  hjiang13
-(10.5)  jingeli2
-( 13 )  mramesh2
-( 13 )  pitsko2
-( 13 )  rai3
-( 13 )  saraf3
-  14 )  tunnell2
-( 13  )  wchsieh2
+(105)  hjiang13
+(105)  jingeli2
+( 132 )  mramesh2
+( 132 )  pitsko2
+( 132 )  rai3
+( 132 )  saraf3
+  140 )  tunnell2
+( 130  )  wchsieh2
 ----------------
 1008 Total
 ----------------
