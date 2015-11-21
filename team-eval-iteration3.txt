@@ -9,14 +9,14 @@ contributions to the final team project.
 Amount netids
 *On previous eval please note that the submitted values were 
 ----------------
-( $50 )  hjiang13
-( $50 )  jingeli2
-( $180 )  mramesh2
-( $142)  pitsko2
-( $132)  rai3
-( $142)  saraf3
-( $180 )  tunnell2
-( $132)  wchsieh2
+( 50 )  hjiang13
+( 50 )  jingeli2
+( 180 )  mramesh2
+( 142)  pitsko2
+( 132)  rai3
+( 142)  saraf3
+( 180 )  tunnell2
+( 132)  wchsieh2
 ----------------
 1008 Total
 ----------------
