@@ -1,0 +1,160 @@
+Peer Evaluation
+===============
+
+Q1. Suppose you have been given $1008, and you are asked to distribute
+the money among the team members, including yourself, based on the
+contributions to the final team project.
+===========================================================================
+
+Amount netids
+----------------
+(   )  hjiang13
+(   )  jingeli2
+(   )  mramesh2
+(   )  pitsko2
+(   )  rai3
+(   )  saraf3
+(   )  tunnell2
+(   )  wchsieh2
+----------------
+1008 Total
+----------------
+
+
+Q2. For each team member, including yourself, answer the following questions:
+    (For more detailed behavioral description, please see the CATME calibration.)
+===========================================================================
+* Is the member contributing to the team's work?
+
+  not contributing  <<< (1) << (2) << (3) >> (4) >> (5) >>>  contributing
+  -----------------------------------------------------------------------
+  ** Reference behavior for average score, which is (3):
+     - Completes a fair share of the team's work with acceptable quality.
+     - Keeps commitments and completes assignments on time.
+     - Helps teammates who are having difficulty when it is easy or important.
+
+( ) - hjiang13
+( ) - jingeli2
+( ) - mramesh2
+( ) - pitsko2
+( ) - rai3
+( ) - saraf3
+( ) - tunnell2
+( ) - wchsieh2
+
+  ** WHY do you think so? Illustrate with examples.
+
+
+==============================================================================
+* Does the member have good interactions with the teammates?
+
+  poor interaction   <<< (1) << (2) << (3) >> (4) >> (5) >>>  good interaction
+  ----------------------------------------------------------------------------
+  ** Reference behavior for average score, which is (3):
+     - Listens to teammates and respects their contributions.
+     - Communicates clearly. Shares information with teammates.
+     - Participates fully in team activities.
+     - Respects and responds to feedback from teammates.
+
+( ) - hjiang13
+( ) - jingeli2
+( ) - mramesh2
+( ) - pitsko2
+( ) - rai3
+( ) - saraf3
+( ) - tunnell2
+( ) - wchsieh2
+
+  ** WHY do you think so? Illustrate with examples.
+
+
+==============================================================================
+* Is the member keeping the team on track?
+
+       not keeping    <<< (1) << (2) << (3) >> (4) >> (5) >>>  keeping
+  ----------------------------------------------------------------------------
+  ** Reference behavior for average score, which is (3):
+     - Notices changes that influence the team's success.
+     - Knows what everyone on the team should be doing and notices problems.
+     - Alerts teammates or suggests solutions when the team's success is threatened.
+
+( ) - hjiang13
+( ) - jingeli2
+( ) - mramesh2
+( ) - pitsko2
+( ) - rai3
+( ) - saraf3
+( ) - tunnell2
+( ) - wchsieh2
+
+  ** WHY do you think so? Illustrate with examples.
+
+
+==============================================================================
+* Is the member expecting quality work from the team?
+
+      not expecting   <<< (1) << (2) << (3) >> (4) >> (5) >>>  expecting
+  ----------------------------------------------------------------------------
+  ** Reference behavior for average score, which is (3):
+     - Encourages the team to do good work that meets all requirements.
+     - Wants the team to perform well enough to earn all available rewards.
+     - Believes that the team can fully meet its responsibilities.
+
+( ) - hjiang13
+( ) - jingeli2
+( ) - mramesh2
+( ) - pitsko2
+( ) - rai3
+( ) - saraf3
+( ) - tunnell2
+( ) - wchsieh2
+
+  ** WHY do you think so? Illustrate with examples.
+
+
+==============================================================================
+* Does the member have related knowledge, skills, and abilities?
+
+       not having     <<< (1) << (2) << (3) >> (4) >> (5) >>>  having
+  ----------------------------------------------------------------------------
+  ** Reference behavior for average score, which is (3):
+     - Demonstrates sufficient knowledge, skills, and abilities to contribute to the team's work.
+     - Acquires knowledge or skills as needed to meet requirements.
+     - Able to perform some of the tasks normally done by other team members.
+
+( ) - hjiang13
+( ) - jingeli2
+( ) - mramesh2
+( ) - pitsko2
+( ) - rai3
+( ) - saraf3
+( ) - tunnell2
+( ) - wchsieh2
+
+  ** WHY do you think so? Illustrate with examples.
+
+
+Q3. Team and CATME
+==============================================================================
+* Are you satisfied with your present teammates?
+
+       not satisfied  <<< (1) << (2) << (3) >> (4) >> (5) >>>  satisfied
+  ----------------------------------------------------------------------------
+( ) - I rate my OWN satisfaction with this score.
+
+==============================================================================
+* What do you see as the strengths of using CATME to form teams? Please explain WHY.
+
+
+==============================================================================
+* What do you see as the weaknesses of using CATME to form teams? Please explain WHY.
+
+
+==============================================================================
+* Do you recommend using CATME in future courses?
+
+  strongly NOT recommend  <<< (1) << (2) << (3) >> (4) >> (5) >>>  strongly recommend
+  ----------------------------------------------------------------------------------
+( ) - I rate my OWN recommendation with this score.
+
+  ** WHY? If you prefer another method (e.g., self-formed teams or random), describe.
