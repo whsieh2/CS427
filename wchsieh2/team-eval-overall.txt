@@ -8,14 +8,14 @@ contributions to the final team project.
 
 Amount netids
 ----------------
-(   )  hjiang13
-(   )  jingeli2
-(   )  mramesh2
-(   )  pitsko2
-(   )  rai3
-(   )  saraf3
-(   )  tunnell2
-(   )  wchsieh2
+(76.5)  hjiang13
+(76.5)  jingeli2
+(150)  mramesh2
+(140   )  pitsko2
+(140)  rai3
+(140)  saraf3
+(150)  tunnell2
+(135)  wchsieh2
 ----------------
 1008 Total
 ----------------
@@ -33,17 +33,17 @@ Q2. For each team member, including yourself, answer the following questions:
      - Keeps commitments and completes assignments on time.
      - Helps teammates who are having difficulty when it is easy or important.
 
-( ) - hjiang13
-( ) - jingeli2
-( ) - mramesh2
-( ) - pitsko2
-( ) - rai3
-( ) - saraf3
-( ) - tunnell2
-( ) - wchsieh2
+(2) - hjiang13
+(2) - jingeli2
+(5) - mramesh2
+(4) - pitsko2
+(4) - rai3
+(4) - saraf3
+(5) - tunnell2
+(3) - wchsieh2
 
   ** WHY do you think so? Illustrate with examples.
-
+Two of our members did not participate at all. Two were very involved. And the rest was about/above average.
 
 ==============================================================================
 * Does the member have good interactions with the teammates?
@@ -56,17 +56,17 @@ Q2. For each team member, including yourself, answer the following questions:
      - Participates fully in team activities.
      - Respects and responds to feedback from teammates.
 
-( ) - hjiang13
-( ) - jingeli2
-( ) - mramesh2
-( ) - pitsko2
-( ) - rai3
-( ) - saraf3
-( ) - tunnell2
-( ) - wchsieh2
+(2) - hjiang13
+(2) - jingeli2
+(4) - mramesh2
+(4) - pitsko2
+(4) - rai3
+(4) - saraf3
+(4) - tunnell2
+(3) - wchsieh2
 
   ** WHY do you think so? Illustrate with examples.
-
+Sometimes they were hard to reach. But for the most part everyone attended every meeting.
 
 ==============================================================================
 * Is the member keeping the team on track?
@@ -78,17 +78,17 @@ Q2. For each team member, including yourself, answer the following questions:
      - Knows what everyone on the team should be doing and notices problems.
      - Alerts teammates or suggests solutions when the team's success is threatened.
 
-( ) - hjiang13
-( ) - jingeli2
-( ) - mramesh2
-( ) - pitsko2
-( ) - rai3
-( ) - saraf3
-( ) - tunnell2
-( ) - wchsieh2
+(3) - hjiang13
+(3) - jingeli2
+(4) - mramesh2
+(4) - pitsko2
+(4) - rai3
+(4) - saraf3
+(5) - tunnell2
+(4) - wchsieh2
 
   ** WHY do you think so? Illustrate with examples.
-
+TJ was very involved in always making sure our code ran correctly.
 
 ==============================================================================
 * Is the member expecting quality work from the team?
@@ -100,17 +100,17 @@ Q2. For each team member, including yourself, answer the following questions:
      - Wants the team to perform well enough to earn all available rewards.
      - Believes that the team can fully meet its responsibilities.
 
-( ) - hjiang13
-( ) - jingeli2
-( ) - mramesh2
-( ) - pitsko2
-( ) - rai3
-( ) - saraf3
-( ) - tunnell2
-( ) - wchsieh2
+(2) - hjiang13
+(2) - jingeli2
+(5) - mramesh2
+(4) - pitsko2
+(4) - rai3
+(4) - saraf3
+(5) - tunnell2
+(3) - wchsieh2
 
   ** WHY do you think so? Illustrate with examples.
-
+Most were very energetic to make progress. Others were less. But we were all striving for the same goals.
 
 ==============================================================================
 * Does the member have related knowledge, skills, and abilities?
@@ -122,17 +122,17 @@ Q2. For each team member, including yourself, answer the following questions:
      - Acquires knowledge or skills as needed to meet requirements.
      - Able to perform some of the tasks normally done by other team members.
 
-( ) - hjiang13
-( ) - jingeli2
-( ) - mramesh2
-( ) - pitsko2
-( ) - rai3
-( ) - saraf3
-( ) - tunnell2
-( ) - wchsieh2
+(1) - hjiang13
+(1) - jingeli2
+(5) - mramesh2
+(4) - pitsko2
+(4) - rai3
+(4) - saraf3
+(5) - tunnell2
+(3) - wchsieh2
 
   ** WHY do you think so? Illustrate with examples.
-
+Most were very proficient at java and using available resources to fill in the gaps in knowledge. Others were less familiar with java as a result there were noticeable difficulties for specific tasks.
 
 Q3. Team and CATME
 ==============================================================================
@@ -140,21 +140,22 @@ Q3. Team and CATME
 
        not satisfied  <<< (1) << (2) << (3) >> (4) >> (5) >>>  satisfied
   ----------------------------------------------------------------------------
-( ) - I rate my OWN satisfaction with this score.
+(4) - I rate my OWN satisfaction with this score.
 
 ==============================================================================
 * What do you see as the strengths of using CATME to form teams? Please explain WHY.
 
-
+I found a lot of my team members to be very ambitious and good teammates.
 ==============================================================================
 * What do you see as the weaknesses of using CATME to form teams? Please explain WHY.
-
+Some of the members were less competent. But that is expected in any group.
 
 ==============================================================================
 * Do you recommend using CATME in future courses?
 
   strongly NOT recommend  <<< (1) << (2) << (3) >> (4) >> (5) >>>  strongly recommend
   ----------------------------------------------------------------------------------
-( ) - I rate my OWN recommendation with this score.
+(4) - I rate my OWN recommendation with this score.
 
   ** WHY? If you prefer another method (e.g., self-formed teams or random), describe.
+  I enjoyed my experience and the people I met. The only negative part was the work ethic of some of the members. But otherwise I found Catme very pleasant.
