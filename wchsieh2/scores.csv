@@ -1,2 +1,3 @@
-netid,mp0,quiz1,mp1,mp2,openmrs_extracredit,mp3,quiz2,mp4,mp4.5,mp5,quiz3,iteration1,iteration2,quiz4,iteration3
-wchsieh2,8,0,0,5,0,20,1,20,0,20,0,12,9,0,15
+netid,mp0,quiz1,mp1,mp2,openmrs_extracredit,mp3,quiz2,mp4,mp4.5,mp5,quiz3,iteration1,iteration2,quiz4,iteration3,quiz5,4hrs,Piazza,activity_bonus,exam%,all_mps,dropped_mp,mps+exam,final_project,sum,grade
+wchsieh2,8,0,0,5,0,20,1,20,0,20,0,12,9,0,15,0.125,no,0,0.4,46,72,86,63,25,63.89,C
+,,,,,,,,,,,,,,,,,,,"ROUNDUP(MIN((C2+H2+L2)/3+(O2+Q2)/2+S2,2),2)",,"CEILING(100*(B2/10+D2/10+(E2+F2)/10+G2/20+I2/20+K2/20+J2/4.5)/6,1)","CEILING(100*(B2/10+D2/10+(E2+F2)/10+G2/20+I2/20+K2/20-MIN(B2/10,D2/10,(E2+F2)/10,G2/20,I2/20,K2/20)+J2/4.5)/5,1)","CEILING(MAX(30*V2+30*U2,25*W2+35*U2)/60,1)",,"ROUNDUP(T2+IF(R2=""no"",0.6*X2+40*(M2+N2+P2+Y2)/95,IF(R2=""proj"",0.45*X2+55*(M2+N2+P2+Y2)/125,0.75*(0.6*X2+40*(M2+N2+P2+Y2)/95)+R2)),2)"
